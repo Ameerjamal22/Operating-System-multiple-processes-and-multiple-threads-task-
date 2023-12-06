@@ -1,2 +1,2 @@
 # Operating-System-multiple-processes-and-multiple-threads-task-
-compares using multiple processes and threads by testing them on a matrix multiplication task. Discover the pros and cons of each approach in a simple comparison , Unix libraries are used . 
+compares the use of multiple processes and threads through a matrix multiplication task. Delve into the details of each approach using Unix libraries, find the implementation in the main.c file with clear explanations. Uncover the pros and cons in a straightforward comparison, and access detailed results and reasoning in the accompanying PDF for a comprehensive understanding .
